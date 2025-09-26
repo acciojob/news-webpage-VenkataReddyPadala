@@ -12,6 +12,7 @@ body{
 	color:white;
 	text-align:center;
 	padding:10px;
+	width:100%;
 }
 .flexContainer{
 	display:flex;
@@ -39,6 +40,8 @@ main{
 	flex-direction:column;
 	gap:10px;
 	align-items:center;
+	width:200px;
+	text-align:center;
 }
 
 .pictorial-news-section img{
